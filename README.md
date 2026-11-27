@@ -11,7 +11,7 @@
 
   <div>
     <h3>
-      <a href="https://github.com/V3lm4t/Counter/blob/master/README_rus.md">RUS</a> | <a href="https://github.com/V3lm4t/Counter/blob/master/README_eng.md">ENG</a>
+      <a href="https://github.com/V3lm4t/Counter/blob/master/Data/README_ru.md">RU</a> | <a href="https://github.com/V3lm4t/Counter/blob/master/Data/README_en.md">EN</a>
     </h3>
   </div>
 </div>

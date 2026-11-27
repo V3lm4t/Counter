@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Пользователь\\source\\repos\\Counter\\Counter\\Counter.csproj",
+      "projectUniqueName": "C:\\Programming\\CSharp\\Counter\\Counter\\Counter.csproj",
       "projectName": "Counter",
-      "projectPath": "C:\\Users\\Пользователь\\source\\repos\\Counter\\Counter\\Counter.csproj",
+      "projectPath": "C:\\Programming\\CSharp\\Counter\\Counter\\Counter.csproj",
       "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Пользователь\\source\\repos\\Counter\\Counter\\obj\\",
+      "outputPath": "C:\\Programming\\CSharp\\Counter\\Counter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
